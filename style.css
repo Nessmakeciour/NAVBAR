@@ -1,0 +1,31 @@
+.main4{
+    width: 400px;
+    float: left;
+    height: 70px;
+
+
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
+
+}
+ul li{
+    list-style: none;
+    margin-left: 65px ;
+    margin-top: 27px;
+    font-size: 10px;
+}
+UL LI a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0,4s ease-in-out
+}
+UL LI A:hover{
+    color: rgb(0, 255, 234); 
+}
